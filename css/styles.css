@@ -80,6 +80,19 @@
 .email-modal__info .logo{
     margin-bottom: 4rem;
 }
+.email-modal h2{
+    font-size: 1.8rem;
+    margin-bottom: 1.2rem;
+}
+
+.email-modal__message{
+    color: rgba(221,221,221,0.63);
+    font-weight: 100;
+    line-height: 1.7;
+    margin-bottom: 1.2rem;
+}
+
+
 
 
 
