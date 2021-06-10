@@ -14,7 +14,7 @@ window.onload = function() {
 
     closeModal.addEventListener('click', () => {
         emailModal.classList.remove('email-modal__visible')
-    } )
+    });
 
     
     console.log(document);
