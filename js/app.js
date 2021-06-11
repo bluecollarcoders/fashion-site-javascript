@@ -2,6 +2,9 @@
 
 window.onload = function() {
 
+
+    // Modal section
+
     let emailState = false;
 
     let emailModal = document.getElementsByClassName('email-modal') [0];
@@ -45,7 +48,9 @@ window.onload = function() {
      showModal();
     });
 
-   
+    
+
+    // 
 
     
 
